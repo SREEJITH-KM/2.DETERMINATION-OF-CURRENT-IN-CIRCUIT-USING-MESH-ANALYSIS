@@ -22,15 +22,16 @@
 
 **CIRCUIT DIAGRAM:**
 
-![exp 2 cd](https://github.com/user-attachments/assets/f648141e-cb37-40cb-8440-216a6c912d2e)
+![WhatsApp Image 2025-11-22 at 20 02 15_fbf0882f](https://github.com/user-attachments/assets/1a209b36-ca36-41e9-af09-8b58ed999fe9)
 
-**TABULATION:**
+**TABULAR COLUMN**
 
-![exp 2 tab](https://github.com/user-attachments/assets/4d32a13b-1a48-48b8-99fc-d64834f19637)
+![WhatsApp Image 2025-11-22 at 20 02 36_84ca1896](https://github.com/user-attachments/assets/3399a3a5-e5a2-494e-8012-76fd537106d2)
 
-**CALCULATION:**
+**CALCULATION**
 
-![exp 2 calc](https://github.com/user-attachments/assets/9260e2f6-6c34-4998-aad1-e20097f2bd0e)
+![WhatsApp Image 2025-11-22 at 20 02 54_1b7ff6f2](https://github.com/user-attachments/assets/9737d09e-f5c8-4f99-b323-c9f56073f3e6)
+![WhatsApp Image 2025-11-22 at 20 03 24_675614cb](https://github.com/user-attachments/assets/face5a74-11e9-4697-b5a3-dabf9b7b0b08)
 
 **PROCEDURE:** 
 
@@ -46,18 +47,13 @@
 
 6.	Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.
 
-**MARKS SPLIT UP:**
-
-![exp 2 ms](https://github.com/user-attachments/assets/73a354ee-8f64-447b-b365-014b40f86cdf)
-
-
-**RESULT:**
+   **RESULT:**
 
 Thus, the Mesh analysis is verified practically and theoretically. The resultant currents for 	/	V supply are:
 
-a)	The current across 330Ω resistor is	1.5mA.
+a)	The current across 330Ω resistor is	1.2 mA.
 
-b)	The current across 560Ω resistor is	3.5mA.
+b)	The current across 560Ω resistor is	4.2 mA.
 
-c)	The current across 470Ω resistor is	4.5mA.
+c)	The current across 470Ω resistor is	5.4 mA.
 
